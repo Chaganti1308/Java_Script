@@ -30,4 +30,14 @@ let xval = 10
 xval += 120
 console.log(xval);
 
+//Comparison operators
+let a = 3
+let b = 3
 
+console.log(a == b); // -- true
+
+let c = 3
+let d = "3"
+
+console.log(c == d); // -- true  -- here it compares the value not data type
+console.log(c === d); // -- false  -- here it compares the value and data type
