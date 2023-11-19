@@ -49,3 +49,4 @@ for (userScore; userScore >= minValue ; userScore--){
     }
     console.log(`User score is ${userScore}`);
 }
+
