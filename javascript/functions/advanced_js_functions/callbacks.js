@@ -15,4 +15,4 @@ function processArray(array, fun){
 processArray([1,2,3,4,5,6],function square(x) { return x*x ;}); // passing function as arguement fun -> square
 
 // square and cube functions are callback function
-// processArray is the Higher Order Function
+// processArray is the Higher Order Function   
